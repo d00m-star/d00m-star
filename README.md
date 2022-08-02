@@ -1,7 +1,7 @@
-- 👋 Hi, I’m John-Michael Dunn
-- 👀 MERN Stack, PostreSQL, Python, Vue.js
-- 🌱 PostreSQL, React.js, 
-- 💞️ All the things.. consume more information!
+Hello, my name is John Dunn. I am a full-stack Software Engineer currently equipped with the MERN stack, PostreSQL, Vue.js, and Python skills.
+I look forward to continuing my education on these languages/libraries/frameworks, and would enjoy collaborating on them all.
+
+
 - 📫 alch3myst@gmail.com
 
 <!---
