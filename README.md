@@ -1,4 +1,4 @@
-Hello, my name is John Dunn. I am a full-stack Software Engineer currently equipped with the MERN stack, PostreSQL, Vue.js, and Python skills.
+Hello, my name is John Dunn. I am a full-stack Software Engineer currently equipped with the MERN stack, PostgreSQL, Vue.js, and Python skills.
 I look forward to continuing my education on these languages/libraries/frameworks, and would enjoy collaborating on them all.
 
 
